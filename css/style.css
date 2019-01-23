@@ -1,0 +1,44 @@
+.container { margin-top: 150px}
+
+body { background-color: lightblue}
+
+.form-control { background-color: #fafafa}
+
+
+
+.carslist {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 1px blue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  letter-spacing: 3px;
+  border-style: solid;
+  border-color: grey;
+  background-color: lightgrey;
+
+}
+
+
+.btn {
+  background-color: blue;
+  font-size: 15px;
+  border-radius: 50%;
+  box-shadow: 0 6px 16px 0 rgba(0,0,0,0.1);
+  padding: 5px 14px;
+
+
+
+}
+
+p {
+  font-size: 25px;
+  text-align: left;
+  letter-spacing: 3px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+  border-style: solid;
+  border-color: grey;
+  background-color: lightgrey;
+  text-shadow: 0.6px 1px blue;
+}
